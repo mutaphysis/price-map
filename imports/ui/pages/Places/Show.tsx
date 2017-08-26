@@ -33,5 +33,4 @@ const ShowContainer = createContainer((props: IShowPlaceProps) => {
 }, Show);
 
 export default styled(ShowContainer)`
-    color:#444;
 `;

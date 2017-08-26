@@ -1,17 +1,22 @@
 import * as React from 'react';
 import styled from 'styled-components';
-import TextBlock from './TextBlock';
+import Map from '../../components/Map';
 
 const Home = (props) => (
   <div className={`${props.className}`}>
     <h1>Home!</h1>
-    <div className="alert alert-primary" role="alert">
-      This is a primary alert—check it out!
-    </div>
-    <TextBlock headerText="this is a sample text" bodyText="bla" />
+    <Map/>
   </div>
 );
 
-export default styled(Home) `
-    color:#444;
+export default styled(Home)`
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: stretch;
+  align-content: stretch;
 `;
