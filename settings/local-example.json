@@ -1,0 +1,23 @@
+{
+  "public": {
+    "aws": {
+      "region": "eu-central-1",
+      "s3": {
+        "bucket": "..."
+      }
+    },
+    "mapbox": "..."
+  },
+  "aws": {
+    "accessKeyId": "...",
+    "secretAccessKey": "..."
+  },
+  "transifex": {
+    "projectSlug": "...",
+    "username": "...",
+    "password": "..."
+  },
+  "scripts": {
+    "timeoutMs": 5000
+  }
+}
