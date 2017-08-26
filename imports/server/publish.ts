@@ -14,54 +14,55 @@ export function publishAndLog(name, publishFunction) {
 // specify what's visible, implement `visibleSelectorForUserId` in your collection.
 
 export function publishPublicFields(
-  publicationName,
-  collection,
-  selectorFunction = () => ({}),
-  options = {},
-  visibleSelectorOrNull = null
+  publicationName: string,
+  collection: Mongo.Collection<any>,
+  publicFields: string[],
+  selectorFunction: (arg: string) => object = null,
+  options: object = {},
+  visibleSelector: object = null,
 ) {
   check(publicationName, String);
   check(collection, Mongo.Collection);
-  const givenSelector = selectorFunction(this.userId);
+  const givenSelector = selectorFunction ? selectorFunction(this.userId) : {};
   check(givenSelector, Match.ObjectIncluding({}));
 
   publishAndLog(
     `${publicationName}.public`,
     function publish() {
       this.autorun(() => {
-        const visibleSelector = visibleSelectorOrNull || collection.visibleSelectorForUserId(this.userId);
         const selector = { $and: ([givenSelector, visibleSelector].filter(Boolean)) };
         return collection.find(
           selector,
-          Object.assign({}, options, { fields: collection.publicFields })
+          Object.assign({}, options, { fields: publicFields }),
         );
       });
-    }
+    },
   );
 }
 
 // Like publishPublicFields, but publishes only private fields.
 
 export function publishPrivateFields(
-  publicationName,
-  collection,
-  selectorFunction = () => ({}),
-  options = {},
+  publicationName: string,
+  collection: Mongo.Collection<any>,
+  privateFields: string[],
+  selectorFunction: (arg: string) => object = null,
+  options: object = {},
+  visibleSelector: object = null,
 ) {
   check(publicationName, String);
   check(collection, Mongo.Collection);
   check(selectorFunction, Function);
-  const givenSelector = selectorFunction(this.userId);
+  const givenSelector = selectorFunction ? selectorFunction(this.userId) : {};
   check(givenSelector, Match.ObjectIncluding({}));
   publishAndLog(
     `${publicationName}.private`,
     function publish() {
       this.autorun(() => {
-        const visibleSelector = collection.visibleSelectorForUserId(this.userId);
         const selector = { $and: [givenSelector, visibleSelector].filter(Boolean) };
         return collection.find(
           selector,
-          Object.assign({}, options, { fields: collection.privateFields })
+          Object.assign({}, options, { fields: privateFields }),
         );
       });
     },

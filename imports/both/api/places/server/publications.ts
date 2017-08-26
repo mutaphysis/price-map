@@ -6,4 +6,4 @@ import {Places} from '../places.js';
 
 import {publishPublicFields, publishPrivateFields} from '../../../../../imports/server/publish';
 
-publishPublicFields('places', Places);
+publishPublicFields('places', Places, []);
