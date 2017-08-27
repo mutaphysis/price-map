@@ -2,7 +2,7 @@ import {Meteor} from 'meteor/meteor';
 import {Component} from 'react';
 import styled from 'styled-components';
 import * as React from 'react';
-import {MapGL, Marker} from 'react-map-gl';
+import ReactMapGL, {Marker} from 'react-map-gl';
 import * as Dimensions from 'react-dimensions';
 import { GeolocatedProps, geolocated } from 'react-geolocated';
 
@@ -35,6 +35,8 @@ interface IMaptState {
     minPitch: number,
     maxPitch: number,
   };
+  waitingForPosition: boolean;
+  positionLocked: boolean;
 }
 
 class Map extends Component<IMapProps & GeolocatedProps, IMaptState> {
@@ -57,34 +59,36 @@ class Map extends Component<IMapProps & GeolocatedProps, IMaptState> {
       minPitch: 0,
       maxPitch: 85,
     },
+    waitingForPosition: true,
+    positionLocked: false,
   };
 
   public render(): JSX.Element {
+    this.state.waitingForPosition = this.props.coords == null;
     this.setCoords();
     return (
       <div className={this.props.className || ''} data-component="Map">                
         latitude: {this.props.coords && this.props.coords.latitude}
         longitude: {this.props.coords && this.props.coords.longitude}
-        <MapGL
+        <ReactMapGL
           {...this.state.viewport}
           {...this.state.settings}
-          width={this.props.containerWidth || window.innerWidth}
-          height={this.props.containerHeight || window.innerHeight}
+          width={this.props.containerWidth || 100}
+          height={this.props.containerHeight || 100}
           mapStyle="mapbox://styles/mapbox/dark-v9"
           mapboxApiAccessToken={Meteor.settings.public.mapbox}
           onViewportChange={this.updateViewport} >
           {this.renderPositionMarker()}
-          {this.renderMarker(52.47393, 13.36595, 'test')}
-        </MapGL>
+        </ReactMapGL>
       </div>
     );
   }
 
   private renderPositionMarker = () : JSX.Element => {
-    // if (this.props.coords) {
-      return ( this.renderMarker(this.state.viewport.latitude, this.state.viewport.longitude, 'currentPosition') );
-    // }
-    // return null;
+    if (this.props.coords) {
+      return ( this.renderMarker(this.props.coords.latitude, this.props.coords.longitude, 'currentPosition') );
+    }
+    return null;
   }
 
   private renderMarker = (latitude: number, longitude: number, key: string) : JSX.Element => {
@@ -103,23 +107,20 @@ class Map extends Component<IMapProps & GeolocatedProps, IMaptState> {
   }
 
   private setCoords = () => {
-    if (this.props.coords) {
+    if (this.props.coords && this.state.positionLocked) {
       this.state.viewport.latitude = this.props.coords.latitude;
       this.state.viewport.longitude = this.props.coords.longitude;
-    } else {
-      this.state.viewport.latitude = this.props.initialLatitude || this.state.viewport.latitude;
-      this.state.viewport.longitude = this.props.initialLongitude || this.state.viewport.longitude;
     }
   }
 };
 
 const GeoLocatedMap = geolocated({
-  positionOptions: {
-    enableHighAccuracy: true,
-    maximumAge: 0,
-    timeout: 2500,
-  },
-  userDecisionTimeout: 10000,
+  // positionOptions: {
+  //   enableHighAccuracy: true,
+  //   maximumAge: 0,
+  //   timeout: 2500,
+  // },
+  // userDecisionTimeout: 10000,
 })(Map);
 
 const ScalingMap = Dimensions({
