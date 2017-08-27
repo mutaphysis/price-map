@@ -116,14 +116,7 @@ class Map extends Component<IMapProps & GeolocatedProps, IMaptState> {
   }
 };
 
-const GeoLocatedMap = geolocated({
-  // positionOptions: {
-  //   enableHighAccuracy: true,
-  //   maximumAge: 0,
-  //   timeout: 2500,
-  // },
-  // userDecisionTimeout: 10000,
-})(Map);
+const GeoLocatedMap = geolocated()(Map);
 
 const ScalingMap = Dimensions({
   containerStyle: {flex: '1 1 auto', display: 'flex' },

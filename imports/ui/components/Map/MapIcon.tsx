@@ -1,12 +1,6 @@
 import * as React from 'react';
 import styled from 'styled-components';
 
-const pinStyle = {
-  cursor: 'pointer',
-  fill: '#d00',
-  stroke: 'none',
-};
-
 interface IMapIconProps {
   className?: string;
   size: number;
@@ -36,4 +30,5 @@ export default styled(MapIcon) `
   background-size: contain;
   background-position: center;
   display: block;
+  cursor: pointer;
 `;
