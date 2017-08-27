@@ -1,9 +1,5 @@
 import * as React from 'react';
-
-// tslint:disable-next-line:max-line-length
-const ICON = `M20.2,15.7L20.2,15.7c1.1-1.6,1.8-3.6,1.8-5.7c0-5.6-4.5-10-10-10S2,4.5,2,10c0,2,0.6,3.9,1.6,5.4c0,0.1,0.1,0.2,0.2,0.3
-  c0,0,0.1,0.1,0.1,0.2c0.2,0.3,0.4,0.6,0.7,0.9c2.6,3.1,7.4,7.6,7.4,7.6s4.8-4.5,7.4-7.5c0.2-0.3,0.5-0.6,0.7-0.9
-  C20.1,15.8,20.2,15.8,20.2,15.7z`;
+import styled from 'styled-components';
 
 const pinStyle = {
   cursor: 'pointer',
@@ -12,23 +8,32 @@ const pinStyle = {
 };
 
 interface IMapIconProps {
+  className?: string;
   size: number;
+  path: string;
   onClick?: () => {};
 }
 
 class MapIcon extends React.PureComponent<IMapIconProps> {
-
   public render(): JSX.Element {
-    const {size = 24, onClick} = this.props;
-
+    const {onClick} = this.props;
+    const style = {
+      backgroundImage: 'url(' + this.props.path + ')',
+      width: this.props.size + 'px',
+      height: this.props.size + 'px',
+    };
     return (
-      <svg height={size} viewBox="0 0 24 24"
-        style={{...pinStyle, transform: `translate(${-size / 2}px,${-size}px)`}}
-        onClick={onClick} >
-        <path d={ICON}/>
-      </svg>
+      <a
+        className={this.props.className || ''}
+        onClick={onClick}
+        style={style} />
     );
   }
 }
 
-export default MapIcon;
+export default styled(MapIcon) `
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  display: block;
+`;

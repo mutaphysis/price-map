@@ -96,8 +96,10 @@ class Map extends Component<IMapProps & GeolocatedProps, IMaptState> {
       <Marker
         key={key}
         latitude={latitude}
-        longitude={longitude} >
-        <MapIcon size={24} />
+        longitude={longitude}
+        offsetLeft={-16}
+        offsetTop={-24}>
+        <MapIcon path="/icons/position.svg" size={32} />
       </Marker>
     );
   }
