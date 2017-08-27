@@ -1,6 +1,6 @@
 import * as React from 'react';
 import styled from 'styled-components';
-import Map from '../../components/Map';
+import Map from '../../components/Map/Map';
 
 const Home = (props) => (
   <div className={`${props.className}`}>
