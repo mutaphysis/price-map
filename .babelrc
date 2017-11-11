@@ -1,0 +1,11 @@
+{
+  "plugins": ["c-3po", "transform-typescript"],
+  "env": {
+    "extract": {
+        "plugins": [
+        	["transform-typescript", {}],
+            ["c-3po", { "extract": { "output": "extract.pot" } }]
+        ]
+    }
+  }
+}

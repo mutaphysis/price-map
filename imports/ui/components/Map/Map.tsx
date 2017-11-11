@@ -2,7 +2,7 @@ import {Meteor} from 'meteor/meteor';
 import {Component} from 'react';
 import styled from 'styled-components';
 import * as React from 'react';
-import ReactMapGL, {Marker} from 'react-map-gl';
+import ReactMapGL, {Marker, NavigationControl} from 'react-map-gl';
 import * as Dimensions from 'react-dimensions';
 import { GeolocatedProps, geolocated } from 'react-geolocated';
 
@@ -79,6 +79,7 @@ class Map extends Component<IMapProps & GeolocatedProps, IMaptState> {
           mapboxApiAccessToken={Meteor.settings.public.mapbox}
           onViewportChange={this.updateViewport} >
           {this.renderPositionMarker()}
+          <NavigationControl onChangeViewport={this.updateViewport} />
         </ReactMapGL>
       </div>
     );
