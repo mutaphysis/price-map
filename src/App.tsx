@@ -8,9 +8,8 @@ import './App.scss';
 import './fire';
 import './schema';
 
-const logo = require('./logo.svg');
-
 import { connect, FirebaseProps } from 'react-firebase';
+import { NavigationDrawer } from 'react-md';
 
 type FireBasePropState = 'loading' | 'not-found' | 'data-available';
 
@@ -54,19 +53,18 @@ class App extends React.Component<PriceFireBaseProp & FirebaseProps> {
   render() {
     console.log('rerendered', firebasePropState(this.props, 'prices'));
 
-    return (
-      <div className="App">
-        <div className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h2>Welcome to React</h2>
+    return (   
+      <NavigationDrawer drawerTitle="Price-Map" toolbarTitle="Mappit!" >
+        <div className="sub-header">
+          <h2>This is gonna be awesome</h2>
         </div>
-        <div className="App-intro">
+        <div>
           To get started, edit <code>src/App.tsx</code> and save to reload.
         </div>
         <div>
           Hello 
           {this.props.prices && 
-           map(this.props.prices, (price, id) => { return (<b key={id}>{id}</b>); } ) }
+          map(this.props.prices, (price, id) => { return (<b key={id}>{id}</b>); } ) }
           <button onClick={this.pushPrice}>Click me to save!</button>
         </div>
         <div>
@@ -75,7 +73,7 @@ class App extends React.Component<PriceFireBaseProp & FirebaseProps> {
           <FirebaseAuth uiConfig={this.uiConfig} firebaseAuth={auth}/>
         }
         </div>
-      </div>
+      </NavigationDrawer>
     );
   }
 
