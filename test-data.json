@@ -1,0 +1,3099 @@
+{
+  "prices" : {
+    "-Price-KyVciW2D-QjLSn_I8po" : {
+      "collectedAt" : 1510228551748,
+      "price" : { "value": 1.5, "unit": "EUR" },
+      "creator": "xc4U882SkJcV9jv0gbGYmtRQq2b2",
+      "place": "spaeti-f813ce3d",
+      "product": "-Prod-yVciW2D-QjLSn_I8po"
+    },
+    "-Price-KyVe2P1hO7OCUSdi4Zt" : {
+      "collectedAt" : 1510228899527,
+      "price" : { "value": 1.5, "unit": "EUR" },
+      "creator": "xc4U882SkJcV9jv0gbGYmtRQq2b2",
+      "place": "spaeti-c647f7cd",
+      "product": "-Prod-yVciW2D-QjLSn_I8po"
+    }
+  },
+  "products" : {
+    "-Prod-yVciW2D-QjLSn_I8po" : {
+      "name": "Fritz Cola",
+      "amount": { "value": 0.5, "unit": "liter" },
+      "creator": "imported"
+    },
+    "-Prod-yVe2P1hO7OCUSdi4Zt" : {
+      "name": "Fritz Cola",
+      "amount": { "value": 0.33, "unit": "liter" },
+      "creator": "imported"
+    }
+  },
+  "places" : {
+    "spaeti-f813ce3d": {
+      "latitude": 52.482430,
+      "longitude": 13.443440,
+      "name": "Heim Getränke Türkan Dogar",
+      "address": "Finowstrasse 9\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b3c78b2e": {
+      "latitude": 52.497349,
+      "longitude": 13.361600,
+      "name": "Cafe Di Van Muharrem Kilic",
+      "address": "Potsdamer Strasse 146\n10783 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c647f7cd": {
+      "latitude": 52.526463,
+      "longitude": 13.387376,
+      "name": "Späti Zitrone",
+      "address": "Friedrichstr. 114\n10117 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a29be1e5": {
+      "latitude": 52.446951,
+      "longitude": 13.306249,
+      "name": "Spätkauf @",
+      "address": "Moltkestr. 1\n12203 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f1b99e80": {
+      "latitude": 52.524080,
+      "longitude": 13.348540,
+      "name": "Spätkauf Atmaca und Atmaca Gbr",
+      "address": "Alt-Moabit 106\n10559 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d29ad65e": {
+      "latitude": 52.528996,
+      "longitude": 13.395156,
+      "name": "kauf Markt",
+      "address": "Torstr 169\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a91ab24c": {
+      "latitude": 52.482110,
+      "longitude": 13.438260,
+      "name": "Peters Späti",
+      "address": "Sonnenallee 96\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6e1fe3ec": {
+      "latitude": 52.430535,
+      "longitude": 13.258715,
+      "name": "Bäckerei Özvural Cigdem",
+      "address": "Machnower Straße 1\n14165 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-bdecef02": {
+      "latitude": 52.512130,
+      "longitude": 13.452887,
+      "name": "Spätkauf ",
+      "address": "Warschauerstr. 73\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-19ccf5e0": {
+      "latitude": 52.510299,
+      "longitude": 13.459536,
+      "name": "KietzLaden Özgür Sönmez",
+      "address": "Krossener Strasse 22\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-bf90052d": {
+      "latitude": 52.551280,
+      "longitude": 13.412330,
+      "name": "WSS Andreas Jennen ",
+      "address": "Schivelbeiner Str. 5\n10439 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e6b78866": {
+      "latitude": 52.537574,
+      "longitude": 13.411651,
+      "name": "Kiosk f6",
+      "address": "Choriner str 41\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-00598b4d": {
+      "latitude": 52.505480,
+      "longitude": 13.376333,
+      "name": "Yusufs Späti",
+      "address": "Gabriele-Tergit-Promenade 17 (Eingang Köthener Str. Ecke Bernburger Treppe)\n10963 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b893e792": {
+      "latitude": 52.462850,
+      "longitude": 13.319670,
+      "name": "Getränkeshop und Spätkauf",
+      "address": "Lepsiusstrasse 35\n12163 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c1daac9a": {
+      "latitude": 52.488560,
+      "longitude": 13.394820,
+      "name": "Spätkauf 61 Kemal Erdem",
+      "address": "Friesenstrasse 25\n10965 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6868ef65": {
+      "latitude": 52.555160,
+      "longitude": 13.439040,
+      "name": "Lotto-Presse-Tabak-Shop",
+      "address": "Hamburger Platz 4\n13086 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-5eba2797": {
+      "latitude": 52.532551,
+      "longitude": 13.328617,
+      "name": "Spätkauf Chawity Nanik",
+      "address": "Beusselstraße 43\n10553 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b1ddc816": {
+      "latitude": 52.539560,
+      "longitude": 13.423670,
+      "name": "As Kiosk  Ferhat Uzunkaya Einzelhandel",
+      "address": "Danziger Straße 71\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-db920a0b": {
+      "latitude": 52.503580,
+      "longitude": 13.383670,
+      "name": "Ela Spätkauf",
+      "address": "Stresemannstr. 72\n10963 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e725475c": {
+      "latitude": 52.512333,
+      "longitude": 13.454129,
+      "name": "Call-Shop-Internet",
+      "address": "Grünbergerstr 35\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f8e6372d": {
+      "latitude": 52.490380,
+      "longitude": 13.386010,
+      "name": "Inter@Net Call-Center",
+      "address": "Mehringdamm 70\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8843e9f5": {
+      "latitude": 52.500989,
+      "longitude": 13.441173,
+      "name": "Späti & Coffee Shop",
+      "address": "Skalitzer Str 73\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f2ff6915": {
+      "latitude": 52.550390,
+      "longitude": 13.200710,
+      "name": "NoName",
+      "address": "Schönwalderstr. 40\n13585 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-54af4573": {
+      "latitude": 52.487860,
+      "longitude": 13.431570,
+      "name": "Spätkauf / Backshop",
+      "address": "Pannierstr. 53a\n12047 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6a28910c": {
+      "latitude": 52.512448,
+      "longitude": 13.459109,
+      "name": "All in One späti",
+      "address": "Boxhagenerstr 30\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ef824c39": {
+      "latitude": 52.492420,
+      "longitude": 13.421960,
+      "name": "Twenty 4 Shop",
+      "address": "Kottbusser Damm 14\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-267a6494": {
+      "latitude": 52.499120,
+      "longitude": 13.382851,
+      "name": "PunktPunkt24",
+      "address": "U-Bahnhof Möckernbrücke\n10963 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c148fb7b": {
+      "latitude": 52.485178,
+      "longitude": 13.363456,
+      "name": "Günes Market",
+      "address": "Kolonnenstr. 17\n10829 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1ac27126": {
+      "latitude": 52.476209,
+      "longitude": 13.426720,
+      "name": "Spätkauf 44",
+      "address": "Hermannstr. 105\n12049 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ff181e41": {
+      "latitude": 52.499801,
+      "longitude": 13.306416,
+      "name": "24h-Internet-Cafe am Adenauerplatz",
+      "address": "Kurfürstendamm 161-163\n10709 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d71cd14a": {
+      "latitude": 52.498506,
+      "longitude": 13.446463,
+      "name": "Schlesi",
+      "address": "Schlesische Str 20\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-175fba3d": {
+      "latitude": 52.529480,
+      "longitude": 13.445160,
+      "name": "Kiez Laden Spätie",
+      "address": "Danzigerstr. 215\n10407 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-cd3131ff": {
+      "latitude": 52.514710,
+      "longitude": 13.463153,
+      "name": "Regenbogen Kürbis",
+      "address": "Franfurter Allee 42\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c1e3be4f": {
+      "latitude": 52.512737,
+      "longitude": 13.458943,
+      "name": "Bierparadies",
+      "address": "Boxhagenerstr 105\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-47dfdf5a": {
+      "latitude": 52.501280,
+      "longitude": 13.419290,
+      "name": "Usta Getränke Tabakwaren",
+      "address": "Adalbertstr 86\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6db17109": {
+      "latitude": 52.509246,
+      "longitude": 13.451569,
+      "name": "Murat Internetcafe & Spätkauf",
+      "address": "Warschauerstr 57\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6254d552": {
+      "latitude": 52.486220,
+      "longitude": 13.430860,
+      "name": "Spätkauf 51",
+      "address": "Sonnenallee 35\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6d0d8ca4": {
+      "latitude": 52.500225,
+      "longitude": 13.418683,
+      "name": "Bei Baba 3 Tele-Internetcafe",
+      "address": "Adalbertstr 6\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f38421b6": {
+      "latitude": 52.490310,
+      "longitude": 13.417460,
+      "name": "Bizim Bakal Ismail Kasikci ",
+      "address": "Urbanstraße 47\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c9919972": {
+      "latitude": 52.486120,
+      "longitude": 13.434780,
+      "name": "Spätcampus",
+      "address": "Weserstr. 31\n12047 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0ce3bc20": {
+      "latitude": 52.541470,
+      "longitude": 13.370330,
+      "name": "Spätkauf Zekeriya Ates",
+      "address": "Reinickendorfer Str. 9\n13347 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f639c93f": {
+      "latitude": 52.507550,
+      "longitude": 13.309090,
+      "name": "BC SPÄTKAUF",
+      "address": "Krummestr 41\n10627 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0b0be80d": {
+      "latitude": 52.505040,
+      "longitude": 13.302460,
+      "name": "Россия",
+      "address": "Stuttgarter Platz 36\n10627 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7389ea89": {
+      "latitude": 52.546640,
+      "longitude": 13.406460,
+      "name": "Renee Maeser Mauermarkt",
+      "address": "Gleimstraße 11\n10437 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-09334f29": {
+      "latitude": 52.494270,
+      "longitude": 13.420400,
+      "name": "KIOSK 61",
+      "address": "Kottbusser Damm 6\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7c964292": {
+      "latitude": 52.430535,
+      "longitude": 13.258715,
+      "name": "Zehlendorfer Grill  Seycan Arslan",
+      "address": "Machnower Straße 1\n14165 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-45a838af": {
+      "latitude": 52.496560,
+      "longitude": 13.433250,
+      "name": "Spätkauf& Internet",
+      "address": "Wienerstr. 29\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-dff29511": {
+      "latitude": 52.487298,
+      "longitude": 13.357784,
+      "name": "Haupt",
+      "address": "Hauptstr. 147\n10827 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1210106a": {
+      "latitude": 52.479670,
+      "longitude": 13.346110,
+      "name": "Stop Shop",
+      "address": "Hauptstr. 102\n10825 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-36397d3d": {
+      "latitude": 52.550010,
+      "longitude": 13.457800,
+      "name": "Getränkemarkt Samvel Kalashyan",
+      "address": "Berliner Allee 95\n13088 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d5f253ee": {
+      "latitude": 52.491420,
+      "longitude": 13.331420,
+      "name": "Lebensmittel Nguyen Thi Hoan",
+      "address": "Bundesallee 199\n10717 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4781347d": {
+      "latitude": 52.524896,
+      "longitude": 13.342399,
+      "name": "TEK Getränke",
+      "address": "Stromstr. 65-66\n10555 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-bab7a73c": {
+      "latitude": 52.459230,
+      "longitude": 13.525200,
+      "name": "Bei Baba 4 Tele-Internetcafe",
+      "address": "Mathildenstrasse 12\n12459 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-10521dc9": {
+      "latitude": 52.530227,
+      "longitude": 13.401414,
+      "name": "Rosenback",
+      "address": "Weinbergsweg 27\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-151e0f7d": {
+      "latitude": 52.541020,
+      "longitude": 13.416130,
+      "name": "Kuzheyshop",
+      "address": "Danziger Str. 19\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4c1bd78f": {
+      "latitude": 52.490971,
+      "longitude": 13.396116,
+      "name": "Aqua",
+      "address": "Gneisenaustr 30\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2182b44c": {
+      "latitude": 52.498206,
+      "longitude": 13.348913,
+      "name": "Motzki Ridvan Aycicek",
+      "address": "Motzstraße 22\n10777 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-84dd6ad5": {
+      "latitude": 52.528794,
+      "longitude": 13.408515,
+      "name": "sb",
+      "address": "Torstr 60\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e4279088": {
+      "latitude": 52.525520,
+      "longitude": 13.330422,
+      "name": "Pamuk Shop",
+      "address": "Gotzkowskystr. 30\n10555 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-020c1426": {
+      "latitude": 52.506461,
+      "longitude": 13.470070,
+      "name": "Best of Grill Yusuf Mercanli",
+      "address": "Boxhagener Straße 68\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-87aca301": {
+      "latitude": 52.494020,
+      "longitude": 13.421920,
+      "name": "Spätkauf Sultan SENEL",
+      "address": "Kottbusser Damm 95\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-12ab849e": {
+      "latitude": 52.512395,
+      "longitude": 13.453966,
+      "name": "day & night SHOP",
+      "address": "Grünbergerstr 35\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-12e7ea56": {
+      "latitude": 52.528000,
+      "longitude": 13.326970,
+      "name": "Rostocker Getränke",
+      "address": "Rostockerstr.1\n10553 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c595e09c": {
+      "latitude": 52.467540,
+      "longitude": 13.442360,
+      "name": "Heros-Nightshop",
+      "address": "Karl-Marx-Str. 241\n12057 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d6b9707d": {
+      "latitude": 52.501426,
+      "longitude": 13.441657,
+      "name": "Baguettes & Getränkeshop",
+      "address": "Köpenicker Str 1c\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-05b6e3b6": {
+      "latitude": 52.487090,
+      "longitude": 13.323340,
+      "name": "Internet@Cafe",
+      "address": "Fechnerstr. 5\n10717 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6f81917e": {
+      "latitude": 52.527710,
+      "longitude": 13.329050,
+      "name": "Spätkauf Internet & Telecafe Web-Cafe",
+      "address": "Beusselstr.15\n10553 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f59c8145": {
+      "latitude": 52.503860,
+      "longitude": 13.447190,
+      "name": "Istanbul bistro",
+      "address": "Warschauer Strasse 45\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c8ed2041": {
+      "latitude": 52.483039,
+      "longitude": 13.354278,
+      "name": "Gökis Bäckerei",
+      "address": "Langenscheidstr 3\n10827 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-389c3c17": {
+      "latitude": 52.510530,
+      "longitude": 13.284380,
+      "name": "Spät Shop am Kaiserdamm 21 Osman Beger",
+      "address": "Kaiserdamm 21\n14057 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-9682b115": {
+      "latitude": 52.499971,
+      "longitude": 13.418101,
+      "name": "Regenbogenbuchhandlung",
+      "address": "Adalbertstr 97\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2e96a330": {
+      "latitude": 52.474970,
+      "longitude": 13.426890,
+      "name": "Semsur Spätkauf & Internet",
+      "address": "Hermannstr.66\n12049 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-bf8086f0": {
+      "latitude": 52.550160,
+      "longitude": 13.460020,
+      "name": "Helin Kiosk Omar Bangin",
+      "address": "Berliner Allee 112\n13088 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-9b7fe3a7": {
+      "latitude": 52.507872,
+      "longitude": 13.333419,
+      "name": "point shop to go",
+      "address": "Hardenbergplatz 9-11\n10627 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0f10ced4": {
+      "latitude": 52.464479,
+      "longitude": 13.339638,
+      "name": "Feuerbacher Spätkauf",
+      "address": "Feuerbachstr. 70\n12163 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-07dd5a8a": {
+      "latitude": 52.497613,
+      "longitude": 13.361887,
+      "name": "Green Group GmbH",
+      "address": "Potsdamer Str. 142\n10783 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-40e2a802": {
+      "latitude": 52.517031,
+      "longitude": 13.453086,
+      "name": "Murat Spätkauf",
+      "address": "Petersburger Str. 96\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-78d7e366": {
+      "latitude": 52.485526,
+      "longitude": 13.361274,
+      "name": "Day 'n Night",
+      "address": "Leberstr 2\n10829 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7cacb0ee": {
+      "latitude": 52.495371,
+      "longitude": 13.420900,
+      "name": "Bilo Tele-Internetcafe",
+      "address": "Kottbusser Damm 103\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1f0eb6c4": {
+      "latitude": 52.524441,
+      "longitude": 13.395993,
+      "name": "KAMES to go shop",
+      "address": "Oranienburger Str 23\n10178 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c5a7f751": {
+      "latitude": 52.498020,
+      "longitude": 13.421110,
+      "name": "Eis Marie",
+      "address": "Reichenbergerstr. 26\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b9c728a0": {
+      "latitude": 52.486612,
+      "longitude": 13.422731,
+      "name": "Surf & Game GmbH Oguz Kaya",
+      "address": "Hasenheide 115\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7bbb3a3a": {
+      "latitude": 52.524300,
+      "longitude": 13.334790,
+      "name": "Preese-Tabak-Shop",
+      "address": "Alt-Moabit 78\n10555 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b5414812": {
+      "latitude": 52.517270,
+      "longitude": 13.454100,
+      "name": "Alan Internet Cafe Spätkauf",
+      "address": "Petersburger Str. 95\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-84c6ae70": {
+      "latitude": 52.498546,
+      "longitude": 13.441591,
+      "name": "Kiosk Spätkauf (Kiez-Kiosk)",
+      "address": "Wrangelstraße 52\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-78aff4b5": {
+      "latitude": 52.499518,
+      "longitude": 13.428773,
+      "name": "Dusk 24/7 Dawn",
+      "address": "Skalitzerstr 99\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e7e64066": {
+      "latitude": 52.513700,
+      "longitude": 13.294870,
+      "name": "Kiosk Ömer Faruk Tuncer",
+      "address": "Nehringstrasse 16\n14059 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-cc5665a4": {
+      "latitude": 52.491440,
+      "longitude": 13.394790,
+      "name": "Kiosk und Mehr",
+      "address": "Zossenerstr.37\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c8208e05": {
+      "latitude": 52.551250,
+      "longitude": 13.356540,
+      "name": "Mini Market ",
+      "address": "Amsterdamerstr. 17 A\n13503 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-dadbba85": {
+      "latitude": 52.540850,
+      "longitude": 13.411260,
+      "name": "Konsum Kutte Kurt Veysel",
+      "address": "Eberswalder Straße 23\n10437 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-18a7aba0": {
+      "latitude": 52.438420,
+      "longitude": 13.344411,
+      "name": "Seven Kiosk Mesut Seven",
+      "address": "Leonorenstr.77\n12249 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-42748077": {
+      "latitude": 52.553877,
+      "longitude": 13.345480,
+      "name": "Spätkauf Müller",
+      "address": "Müllerstr. 122a\n13349 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a718c3a7": {
+      "latitude": 52.468900,
+      "longitude": 13.435096,
+      "name": "Neuköllner Internet- und Telecafé Späti",
+      "address": "Emser Str. 121 \n12051 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3a92ccf5": {
+      "latitude": 52.527930,
+      "longitude": 13.327600,
+      "name": "Kiosk Kadir Kadirov",
+      "address": "Huttenstrasse 4\n10553 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-bdafb368": {
+      "latitude": 52.480950,
+      "longitude": 13.437020,
+      "name": "Erens Fastshop",
+      "address": "Erkstraße 5\n12043 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6100534a": {
+      "latitude": 52.485500,
+      "longitude": 13.448940,
+      "name": "Troja Spätkauf Senem Baskak",
+      "address": "Elsenstraße 53\n12059 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-abf6a6d1": {
+      "latitude": 52.462002,
+      "longitude": 13.377171,
+      "name": "Nazar Spätkauf",
+      "address": "Manteuffelstr 57a\n12103 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-5d2c20de": {
+      "latitude": 52.486300,
+      "longitude": 13.425040,
+      "name": "Amman Spätkauf",
+      "address": "Karl-Marx-Str.3\n12043 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ccdb4a57": {
+      "latitude": 52.491910,
+      "longitude": 13.423240,
+      "name": "Telecafe  Seyho Altan",
+      "address": "Kottbusser Damm 81\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-73d373fe": {
+      "latitude": 52.480940,
+      "longitude": 13.428760,
+      "name": "Check-in Kiosk",
+      "address": "Flughafenstr. 33\n12053 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b474265a": {
+      "latitude": 52.529560,
+      "longitude": 13.396810,
+      "name": "Whatever",
+      "address": "Torstrasse 155\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7c6947f3": {
+      "latitude": 52.532341,
+      "longitude": 13.396898,
+      "name": "lotto lotto lotto",
+      "address": "Invalidenstr 157\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ac4afc1e": {
+      "latitude": 52.518600,
+      "longitude": 13.454820,
+      "name": "Rigaer Getränke",
+      "address": "Rigaer Strasse 105\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3aa639e4": {
+      "latitude": 52.467540,
+      "longitude": 13.442360,
+      "name": "Heros Night-Shop",
+      "address": "Karl-Marx-Str. 241\n12057 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-39a52fa0": {
+      "latitude": 52.492720,
+      "longitude": 13.420920,
+      "name": "Spätkauf Melehat Hekimoglu",
+      "address": "Schönleinstraße 4\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6155a568": {
+      "latitude": 52.513327,
+      "longitude": 13.455817,
+      "name": "Multi Media Box",
+      "address": "Boxhagener str 14\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1c0ed42b": {
+      "latitude": 52.498590,
+      "longitude": 13.441663,
+      "name": "Kiez Kiosk",
+      "address": "Wrangelstr. 52\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-18e3d7fe": {
+      "latitude": 52.525512,
+      "longitude": 13.391305,
+      "name": "Kiez Kiosk",
+      "address": "Oranienburgerstr. 39\n10117 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-649dd53a": {
+      "latitude": 52.547240,
+      "longitude": 13.350020,
+      "name": "Robin Getränke Sidik Satik",
+      "address": "Brüsseler Straße 12\n13353 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2de035c9": {
+      "latitude": 52.547400,
+      "longitude": 13.351170,
+      "name": "Robin Getränke Sidik Satik",
+      "address": "Brüsseler Str. 44\n13353 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-5a4e972d": {
+      "latitude": 52.500180,
+      "longitude": 13.424270,
+      "name": "Lottoladen Gürsay Ufuk",
+      "address": "Oranienstr. 10\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-68db9ee2": {
+      "latitude": 52.495010,
+      "longitude": 13.360770,
+      "name": "Potsdamer Internet Cafe",
+      "address": "Potsdamer Strasse 172\n10783 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-17fbce9c": {
+      "latitude": 52.494010,
+      "longitude": 13.387500,
+      "name": "Metropol Spätkauf",
+      "address": "Mehringdamm 32\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-9806de30": {
+      "latitude": 52.517270,
+      "longitude": 13.454100,
+      "name": "Alan Internet Cafe",
+      "address": "Petersburger Strasse 95\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-5693b03e": {
+      "latitude": 52.537637,
+      "longitude": 13.411196,
+      "name": "Spätkauf Backshop Latestore Getränke",
+      "address": "Choriner str 43\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-5e3d0e68": {
+      "latitude": 52.528320,
+      "longitude": 13.328100,
+      "name": "Surf Island Tele@Internet",
+      "address": "Beusselstr.72\n10553 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d569e28e": {
+      "latitude": 52.516775,
+      "longitude": 13.462352,
+      "name": "Drinkbar Spätkauf Internet Telecafe",
+      "address": "Rigaer Str 27\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ab74d4de": {
+      "latitude": 52.509749,
+      "longitude": 13.451782,
+      "name": "Internetcafé",
+      "address": "Warschauerstr.  60\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e72cf553": {
+      "latitude": 52.506980,
+      "longitude": 13.290400,
+      "name": "24/7 Spätkauf",
+      "address": "Neue Kantstrasse 11\n14057 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-13fc759a": {
+      "latitude": 52.547225,
+      "longitude": 13.409197,
+      "name": "Spätshop 19",
+      "address": "Gleimstr. 19\n10437 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-5d2025b8": {
+      "latitude": 52.477060,
+      "longitude": 13.419590,
+      "name": "Nil Kiosk Nilgün Ilmaz",
+      "address": "Herrfurthstrasse 13\n12049 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-997caeec": {
+      "latitude": 52.536220,
+      "longitude": 13.275430,
+      "name": "Internet Telecafe Spätkauf",
+      "address": "Siemensdamm 47\n13629 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3279d63e": {
+      "latitude": 52.497590,
+      "longitude": 13.346510,
+      "name": "Vital Spätkauf",
+      "address": "Martin-Luther-Str. 21\n10777 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-55039bcc": {
+      "latitude": 52.525498,
+      "longitude": 13.403785,
+      "name": "Rosenthaler Str 51",
+      "address": "Rosenthaler Str 51\n10178 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7f86db5c": {
+      "latitude": 52.497910,
+      "longitude": 13.463880,
+      "name": "minimarkt",
+      "address": "Stralauer Allee 17b\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-77b22205": {
+      "latitude": 52.555550,
+      "longitude": 13.383490,
+      "name": "Spätkauf Späti",
+      "address": "Osloer Straße 109\n13359 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-eff9f353": {
+      "latitude": 52.505083,
+      "longitude": 13.449653,
+      "name": "Eastside Burger",
+      "address": "Warschauer Strasse 47\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d93af7c2": {
+      "latitude": 52.532125,
+      "longitude": 13.394659,
+      "name": "7. Himmel Bio Späti",
+      "address": "Invalidenstr. 149\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-89d9869f": {
+      "latitude": 52.527610,
+      "longitude": 13.333050,
+      "name": "Lotto & Tabakwaren Aliev Kadir",
+      "address": "Emdenerstr. 58\n10551 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-689fc81c": {
+      "latitude": 52.548590,
+      "longitude": 13.503340,
+      "name": "Smyrna Kuruyemis",
+      "address": "Hauptstraße 10\n13055 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-51576575": {
+      "latitude": 52.532144,
+      "longitude": 13.394670,
+      "name": "Himmelgrün",
+      "address": "Invalidenstr 149\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3a12b256": {
+      "latitude": 52.494466,
+      "longitude": 13.433477,
+      "name": "Was guckst du, Tele-Cafe",
+      "address": "Reichenbergerstr 72a\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8d73b0c6": {
+      "latitude": 52.553423,
+      "longitude": 13.434934,
+      "name": "Tabakwaren Getränke  Mustafa Culcu",
+      "address": "Langhansstrasse 94\n13086 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a51191fe": {
+      "latitude": 52.547336,
+      "longitude": 13.414178,
+      "name": "Spätkauf 24 Stunden Late Night Shop",
+      "address": "Stargarder Str 2\n10437 Pankow",
+      "creator": "imported"
+    },
+    "spaeti-94d2fea9": {
+      "latitude": 52.498085,
+      "longitude": 13.353233,
+      "name": "Spätkauf 24h open Internet",
+      "address": "Nollendorfstr 10\n10777 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-11b3d06d": {
+      "latitude": 52.516040,
+      "longitude": 13.461270,
+      "name": "Roj Internetcafe & Spätkauf",
+      "address": "Proskauer Str 5\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c146d8bc": {
+      "latitude": 52.564792,
+      "longitude": 13.413085,
+      "name": "Bier & Wein International",
+      "address": "Berlinerstr. 112\n13189 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-352747be": {
+      "latitude": 52.485350,
+      "longitude": 13.426100,
+      "name": "Getränke&More, Tele, Internet & Spätkauf",
+      "address": "Karl-Marx-Str. 12\n12043 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-76b63e59": {
+      "latitude": 52.503490,
+      "longitude": 13.485230,
+      "name": "Nöldner Bistro",
+      "address": " Archibaldweg 20\n10317 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8d4aedc0": {
+      "latitude": 52.524300,
+      "longitude": 13.334790,
+      "name": "Paintball Arena Schönewalde",
+      "address": "Arthur-Scheunert-Allee 1\n14621 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2e55d8d5": {
+      "latitude": 52.521556,
+      "longitude": 13.411158,
+      "name": "KompaktKauf Linie U8",
+      "address": "Bahnhof Alexanderplatz\n10179 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b78e6a0c": {
+      "latitude": 52.542460,
+      "longitude": 13.413400,
+      "name": "Dünnebacks-Wolf",
+      "address": "Pappelallee 84\n10437 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-52f188bf": {
+      "latitude": 52.536644,
+      "longitude": 13.419033,
+      "name": "WÖRTHER 33 Strohfeldt GbR Vadim Golovanov/ Tasira Kvastiani",
+      "address": "Wörther Str. 33\n10405 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-80076cfc": {
+      "latitude": 52.551280,
+      "longitude": 13.412330,
+      "name": "WSS Andreas Jennen",
+      "address": "Schivelbeiner Str. 5\n10439 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c0f2bc77": {
+      "latitude": 52.528733,
+      "longitude": 13.317877,
+      "name": "Tante Emma Laden",
+      "address": "Huttenstr. 25\n10553 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4280add0": {
+      "latitude": 52.489460,
+      "longitude": 13.361410,
+      "name": "Schwaelmer Stube",
+      "address": "Langenscheidtstr. 5a\n10827 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e229859c": {
+      "latitude": 52.548549,
+      "longitude": 13.451705,
+      "name": "Späti to go",
+      "address": "Berliner Allee 40\n13086 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a45ec536": {
+      "latitude": 52.498790,
+      "longitude": 13.324150,
+      "name": "Mara Late Night Shop",
+      "address": "Uhlandstrasse 43-44\n10715 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c97a5032": {
+      "latitude": 52.502230,
+      "longitude": 13.432690,
+      "name": "Tabakwaren Burhan Aykut",
+      "address": "Wrangelstraße 24\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c2920d9d": {
+      "latitude": 52.540128,
+      "longitude": 13.404780,
+      "name": "Mini Markt Adem Gojak",
+      "address": "Schwedter Strasse 52\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6a5b1fbf": {
+      "latitude": 52.533453,
+      "longitude": 13.406876,
+      "name": "Presseshop",
+      "address": "Zionskirchstraße 57\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-547d511b": {
+      "latitude": 52.516040,
+      "longitude": 13.461270,
+      "name": "Spätkauf, Internet Tele Café",
+      "address": "Proskauer Strasse 5\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-32f7f215": {
+      "latitude": 52.500112,
+      "longitude": 13.369535,
+      "name": "GGLT",
+      "address": "Pohlstr. 8\n10785 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-dd93aa47": {
+      "latitude": 52.447063,
+      "longitude": 13.306920,
+      "name": "späti -alp",
+      "address": "Moltkestr. 52\n12203 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-788466da": {
+      "latitude": 52.535640,
+      "longitude": 13.356130,
+      "name": "Steh&Cafe",
+      "address": "Perlenberger Straße 3\n10559 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-86a88f55": {
+      "latitude": 52.501230,
+      "longitude": 13.441210,
+      "name": "Kiosk Keskin Yildiray Keskin",
+      "address": "Skalitzer Straße. 73\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-11ad0797": {
+      "latitude": 52.486780,
+      "longitude": 13.430180,
+      "name": "Fees Getränkeladen",
+      "address": "Pannierstr. 59\n12047 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-050aa510": {
+      "latitude": 52.526161,
+      "longitude": 13.407103,
+      "name": "Außerhausverkauf",
+      "address": "Schönhauser Allee 20\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-21a02b53": {
+      "latitude": 52.528396,
+      "longitude": 13.425679,
+      "name": "Ali Dogan  Lebensmittelhandels UG",
+      "address": "Am Friedrichshain 33\n10407 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-fffac9aa": {
+      "latitude": 52.501502,
+      "longitude": 13.419020,
+      "name": "lotto lotto",
+      "address": "Oranienstr 30\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-88d6cc6a": {
+      "latitude": 52.541520,
+      "longitude": 13.348750,
+      "name": "hacda euromark Zia Faroog",
+      "address": "Föhrer Straße 10\n13353 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b6e79b0e": {
+      "latitude": 52.498590,
+      "longitude": 13.441663,
+      "name": "Hören & Sehen, Bild, Berliner Morgenpost",
+      "address": "Wrangelstr.52\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-034fc501": {
+      "latitude": 52.483851,
+      "longitude": 13.355218,
+      "name": "Tabakwaren und Getränke Ihsan Alagöz",
+      "address": "Feurigstrasse 55\n10827 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b85b2429": {
+      "latitude": 52.533060,
+      "longitude": 13.425660,
+      "name": "Kiosk Coskun Özlek",
+      "address": "Winsstr. 14\n10405 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e11ebe2f": {
+      "latitude": 52.499465,
+      "longitude": 13.427600,
+      "name": "Call + More, Yazgülü Ince",
+      "address": "Skalitzer Straße 104\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-fb8df9b1": {
+      "latitude": 52.516810,
+      "longitude": 13.464140,
+      "name": "Burgerwehr, Burgerrestaurant",
+      "address": "Rigaer Strasse 78\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-66dd2e5a": {
+      "latitude": 52.528210,
+      "longitude": 13.328100,
+      "name": "Kiosk",
+      "address": "Beusselstr. 73\n10553 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-98f846b2": {
+      "latitude": 52.482742,
+      "longitude": 13.437359,
+      "name": "TTJ Spätkauf",
+      "address": "Sonnenallee 86\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-277b1299": {
+      "latitude": 52.494913,
+      "longitude": 13.421174,
+      "name": "Burcak 36 ",
+      "address": "Kottbusser Damm 101\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ba4bbc25": {
+      "latitude": 52.543150,
+      "longitude": 13.440060,
+      "name": "Duman Tele Internetcafe",
+      "address": "Greifswalder Straße 159\n10409 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d29253d8": {
+      "latitude": 52.500990,
+      "longitude": 13.419802,
+      "name": "Nonstop Tele-Internet Cafe",
+      "address": "Oranienstr 178\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4dcd7557": {
+      "latitude": 52.527080,
+      "longitude": 13.333593,
+      "name": "Tele & Internet",
+      "address": "Turmstr 47a\n10551 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-85ad7346": {
+      "latitude": 52.438420,
+      "longitude": 13.344411,
+      "name": "Kiosk bei ElaMa ",
+      "address": "Leonorenstraße 77\n12247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ba44d638": {
+      "latitude": 52.468519,
+      "longitude": 13.384768,
+      "name": "Getränke Discount",
+      "address": "Ringbahnstr. 75\n12103 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-31010f11": {
+      "latitude": 52.501083,
+      "longitude": 13.424175,
+      "name": "Getränke Shop",
+      "address": "Naunynstr.76\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0af9d67d": {
+      "latitude": 52.500353,
+      "longitude": 13.363537,
+      "name": "Kiosk Spätkauf",
+      "address": "Potsdamer Str. 103\n10785 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-9243b002": {
+      "latitude": 52.529420,
+      "longitude": 13.400280,
+      "name": "Saftladen",
+      "address": "Torstr 130\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-943ece78": {
+      "latitude": 52.463577,
+      "longitude": 13.332317,
+      "name": "Das M - Late Shop",
+      "address": "S-Bhf. Feuerbachstr. 34\n12163 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-cf429cf6": {
+      "latitude": 52.465510,
+      "longitude": 13.432850,
+      "name": "Latting Spätkauf",
+      "address": "Hermannstrasse 150\n12051 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c8cfc97b": {
+      "latitude": 52.486830,
+      "longitude": 13.425060,
+      "name": "DAILY STORE",
+      "address": "Hermannplatz 4\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2fc64a23": {
+      "latitude": 52.513142,
+      "longitude": 13.417667,
+      "name": "Einzelhandel Van Trung",
+      "address": "Brückenstr. 8\n12459 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-793d135a": {
+      "latitude": 52.446160,
+      "longitude": 13.315770,
+      "name": "Spätkauf",
+      "address": "Hindenburgdamm 57\n12203 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-cafda49d": {
+      "latitude": 52.450200,
+      "longitude": 13.352200,
+      "name": "Spätkauf",
+      "address": "Grabertstraße 9\n12169 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-af185e2f": {
+      "latitude": 52.454110,
+      "longitude": 13.329400,
+      "name": "Spätkauf",
+      "address": "Albrechtstraße 107\n12167 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a289e4c5": {
+      "latitude": 52.471530,
+      "longitude": 13.443110,
+      "name": "Spätkauf",
+      "address": "Wipperstraße 9\n12056 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3c510b8c": {
+      "latitude": 52.477800,
+      "longitude": 13.447230,
+      "name": "Spätkauf",
+      "address": "Sonnenallee 164\n12059 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-10dc0562": {
+      "latitude": 52.485350,
+      "longitude": 13.426100,
+      "name": "Spätkauf",
+      "address": " Karl-Marx-Str. 12\n12043 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a1fb6af8": {
+      "latitude": 52.498859,
+      "longitude": 13.445805,
+      "name": "Spätkauf",
+      "address": "Schlesische Str 17\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-aefc4554": {
+      "latitude": 52.498960,
+      "longitude": 13.349940,
+      "name": "Spätkauf",
+      "address": "Eisenacher Str. 116\n10777 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d57d32fb": {
+      "latitude": 52.504003,
+      "longitude": 13.344894,
+      "name": "Spätkauf",
+      "address": "Kurfürstenstr 109\n10787 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-16357648": {
+      "latitude": 52.505950,
+      "longitude": 13.460250,
+      "name": "Spätkauf",
+      "address": "Revalerstr. 33\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3552f9ba": {
+      "latitude": 52.512277,
+      "longitude": 13.459977,
+      "name": "Spätkauf",
+      "address": "Boxhagenerstr 32\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-46e1b700": {
+      "latitude": 52.517210,
+      "longitude": 13.465000,
+      "name": "Spätkauf",
+      "address": "Schreinerstr. 12\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f0a0e2cb": {
+      "latitude": 52.532988,
+      "longitude": 13.407155,
+      "name": "Spätkauf",
+      "address": "Choriner Str. 12\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1f378bcd": {
+      "latitude": 52.540300,
+      "longitude": 13.355360,
+      "name": "Spätkauf",
+      "address": "Samoastrasse 9\n13353 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2bea913a": {
+      "latitude": 52.547527,
+      "longitude": 13.456601,
+      "name": "Spätkauf",
+      "address": "Herbert-Baum-Str. 26\n13088 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-78ed4985": {
+      "latitude": 52.588933,
+      "longitude": 13.288792,
+      "name": "Spätkauf",
+      "address": "Buddestr 12\n13507 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2da22f5b": {
+      "latitude": 52.495200,
+      "longitude": 13.365620,
+      "name": "Kiosk Salman",
+      "address": "Alvenslebenstr. 12a\n10783 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-091f1693": {
+      "latitude": 52.499620,
+      "longitude": 13.428450,
+      "name": "From Dust Till Down",
+      "address": "Skalitzerstr.100\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b9b57863": {
+      "latitude": 52.523910,
+      "longitude": 13.452740,
+      "name": "Spätkauf Tran Van Duc",
+      "address": "Ebertystraße 15\n10249 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-107446cb": {
+      "latitude": 52.529440,
+      "longitude": 13.397560,
+      "name": "Zeitungen Tabakwaren Getränke",
+      "address": "Torstr 122\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b52d7da1": {
+      "latitude": 52.511478,
+      "longitude": 13.457712,
+      "name": "Grünbergerstr Kiosk 64",
+      "address": "Grünbergerstr 64\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3a2073c0": {
+      "latitude": 52.481560,
+      "longitude": 13.329080,
+      "name": "Lotto-Presse-Post",
+      "address": "Bundesallee 55\n10715 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-31b5b203": {
+      "latitude": 52.492333,
+      "longitude": 13.423566,
+      "name": "Späkauf am Hermannplatz Julian Zeiller",
+      "address": "Sanderstraße 29-30\n12047 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3d558b71": {
+      "latitude": 52.539733,
+      "longitude": 13.352683,
+      "name": "Spätkauf  Not Stop",
+      "address": "Torfstr.1\n13353 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ead4b483": {
+      "latitude": 52.524539,
+      "longitude": 13.392490,
+      "name": "Spätkauf24.de",
+      "address": "Tucholskistr 13\n10117 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2fd93a4d": {
+      "latitude": 52.491114,
+      "longitude": 13.394625,
+      "name": "Zossener MiniMarkt",
+      "address": "Zossenerstraße 37\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c80220ba": {
+      "latitude": 52.527980,
+      "longitude": 13.327340,
+      "name": "Rostocker Getränke Mustafa Atmaca",
+      "address": "Huttenstr. 5\n10553 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f0ad8f01": {
+      "latitude": 52.481300,
+      "longitude": 13.438200,
+      "name": "Telecafe",
+      "address": "Erkstrasse 10\n12043 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8bc1ade9": {
+      "latitude": 52.489692,
+      "longitude": 13.353357,
+      "name": "Telecafe",
+      "address": "Grunewaldstr 78\n10823 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b5229787": {
+      "latitude": 52.519350,
+      "longitude": 13.453310,
+      "name": "Bäckerei 2000 Sevgi Erdogan",
+      "address": "Bersarinplatz 2\n10249 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7c91f90c": {
+      "latitude": 52.504330,
+      "longitude": 13.343340,
+      "name": "Groß und Einzelhandel Vu Hong",
+      "address": "Kurfürstenstr.106\n10787 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-653b785c": {
+      "latitude": 52.513259,
+      "longitude": 13.453408,
+      "name": "Bäckerei Cafe Freundlich",
+      "address": "Warschauer str 78\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3ee250fd": {
+      "latitude": 52.428820,
+      "longitude": 13.327810,
+      "name": "T-point-center Kiosk",
+      "address": "S-Bahnhof Zehlendorf\n14169 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b17dcbc8": {
+      "latitude": 52.546580,
+      "longitude": 13.427620,
+      "name": "Bena Hol Getränke Tele Internetc Nihat",
+      "address": "Prenzlauer Allee 173\n10409 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0043253b": {
+      "latitude": 52.487909,
+      "longitude": 13.427037,
+      "name": "Kiosk Späti",
+      "address": "Hobrechtstraße 13\n12047 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e0989882": {
+      "latitude": 52.548460,
+      "longitude": 13.500300,
+      "name": "Benugi Spätkauf",
+      "address": "Konrad-Wolf-Str 6\n13055 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e306e5a1": {
+      "latitude": 52.457660,
+      "longitude": 13.578920,
+      "name": "Lehmanns Getränke& More",
+      "address": "Eisenhahn 22 Bahnhofring\n16225 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-10f23588": {
+      "latitude": 52.519930,
+      "longitude": 13.452640,
+      "name": "Djangos Place",
+      "address": "Petersburger Str. 69\n10249 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ff4f6f10": {
+      "latitude": 52.552890,
+      "longitude": 13.415290,
+      "name": "Spätkauf Karen Röhl",
+      "address": "Kuglerstr 3\n10439 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-10d049d1": {
+      "latitude": 52.508985,
+      "longitude": 13.451266,
+      "name": "Quick",
+      "address": "Warschauerstr 56\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4ea7b6f8": {
+      "latitude": 52.550615,
+      "longitude": 13.412910,
+      "name": "Lebensmittel Asia",
+      "address": "Schivelbeinstr. 48\n10439 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d058a014": {
+      "latitude": 52.498900,
+      "longitude": 13.341900,
+      "name": "Cafe Sawanna  ",
+      "address": "Welserstr. 25\n10777 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-af8c5fa2": {
+      "latitude": 52.479700,
+      "longitude": 13.416370,
+      "name": "Scube Park Berlin",
+      "address": "Columbiadamm 160\n10965 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-cb7c2c0e": {
+      "latitude": 52.514740,
+      "longitude": 13.383150,
+      "name": "Berlin Souvenir Shop, Bike Rental & More...",
+      "address": "Wilhelmstr 55\n10117 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-058294bb": {
+      "latitude": 52.538286,
+      "longitude": 13.415717,
+      "name": "Bäckerei Nane Germ",
+      "address": "Sredzkistr. 22\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f31b51fe": {
+      "latitude": 52.539620,
+      "longitude": 13.419110,
+      "name": "Shop Non Stop 2",
+      "address": "Danziger Straße 44\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8d0d7e1e": {
+      "latitude": 52.610429,
+      "longitude": 13.319615,
+      "name": "Telecenter 24",
+      "address": "Oranienstr.47\n10669 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-87a61e1c": {
+      "latitude": 52.486830,
+      "longitude": 13.425060,
+      "name": "Dally Store",
+      "address": "Hermannplatz 4\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-45cb6a8a": {
+      "latitude": 52.500211,
+      "longitude": 13.444166,
+      "name": "Kiezladen",
+      "address": "Falckensteinstr 44A\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e2de94e5": {
+      "latitude": 52.503170,
+      "longitude": 13.430200,
+      "name": "Kiezladen",
+      "address": "Wrangelstr 18\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7e26e17c": {
+      "latitude": 52.455083,
+      "longitude": 13.320663,
+      "name": "Metro Döner",
+      "address": "Kuhlighofstr. 4\n12165 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-193b71d0": {
+      "latitude": 52.443130,
+      "longitude": 13.295150,
+      "name": "Kiosk am Bahnhof",
+      "address": "Baseler Str. 1\n12205 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0ff03e3d": {
+      "latitude": 52.486020,
+      "longitude": 13.429690,
+      "name": "Multi Shop ",
+      "address": "Stargarder Strasse 50\n10437 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4d054dcc": {
+      "latitude": 52.499820,
+      "longitude": 13.443980,
+      "name": "El Quiosco",
+      "address": "Schlesische Str 9\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0c9b08bf": {
+      "latitude": 52.516200,
+      "longitude": 13.304890,
+      "name": "Kiosk Mahmut Cicek",
+      "address": "Wilmersdorfer Straße 159\n10585 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ff450a15": {
+      "latitude": 52.495721,
+      "longitude": 13.436717,
+      "name": "Multi-Kulti Shop",
+      "address": "Wiener Str 40\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c65d2919": {
+      "latitude": 52.537900,
+      "longitude": 13.420160,
+      "name": "Lebensmittel Tran Thi Huyen ",
+      "address": "Kollwitzstr.86\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4863875a": {
+      "latitude": 52.530634,
+      "longitude": 13.402228,
+      "name": "New Hot Dog World",
+      "address": "Weinbergsweg 4\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-40ddcc73": {
+      "latitude": 52.502016,
+      "longitude": 13.330809,
+      "name": "Tabak und Presseshop ",
+      "address": "Joachimstaler Strasse 15\n10719 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-db2a75b7": {
+      "latitude": 52.555180,
+      "longitude": 13.344470,
+      "name": "Döner 76 Kuma",
+      "address": "Müllerstrasse 60\n13347 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d31fe7ef": {
+      "latitude": 52.493350,
+      "longitude": 13.387460,
+      "name": "Lotto Lotto Oddset",
+      "address": "Mehringdamm 38\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b3e98126": {
+      "latitude": 52.527780,
+      "longitude": 13.333880,
+      "name": "Jamhour Telecafé - Spätkauf",
+      "address": "Emdener Str 4\n10551 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f8d192ac": {
+      "latitude": 52.476229,
+      "longitude": 13.426692,
+      "name": "Getränke-Shop",
+      "address": "Hermannstr. 155\n12049 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-64f6e284": {
+      "latitude": 52.535000,
+      "longitude": 13.406430,
+      "name": "Video Service",
+      "address": "Kastanienallee 67\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0a6ddbb9": {
+      "latitude": 52.503860,
+      "longitude": 13.447190,
+      "name": "Istanbul Spätkauf",
+      "address": "Warschauer Str. 45\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-63165794": {
+      "latitude": 52.526610,
+      "longitude": 13.386730,
+      "name": "Green & Fresh Sedat Bayat",
+      "address": "Friedrichstr. 120\n10117 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1451f9d5": {
+      "latitude": 52.544870,
+      "longitude": 13.358760,
+      "name": "Kiosk Abdurrahman Metin",
+      "address": "Genter Strasse 10\n13353 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-40b2f964": {
+      "latitude": 52.525388,
+      "longitude": 13.341475,
+      "name": "Firat II Tele-Internet Cafe",
+      "address": "Alt-Moabit 86\n10555 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d2f2e697": {
+      "latitude": 52.484020,
+      "longitude": 13.424380,
+      "name": "Kiosk44 Adriana Mitkova Dimitrova",
+      "address": "Hermanstrasse 16\n12049 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-805719cb": {
+      "latitude": 52.464350,
+      "longitude": 13.434400,
+      "name": "Nonstop Oki Tekin Bingöl",
+      "address": "Glasower Strasse 33\n12051 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-68062129": {
+      "latitude": 52.476621,
+      "longitude": 13.319772,
+      "name": "Fruko Getränke Celal Kazanci",
+      "address": "Hanauer Straße 80\n14197 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8888ed8e": {
+      "latitude": 52.499081,
+      "longitude": 13.428830,
+      "name": "Bahnhof Tabakwaren Getränke Süsswaren",
+      "address": "Skalitzerstr 41\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-463f01c5": {
+      "latitude": 52.521660,
+      "longitude": 13.454790,
+      "name": "Lotto Tabakwaren Zeitschriften",
+      "address": "Ebertystr. 26\n10249 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-83e1c0f9": {
+      "latitude": 52.540148,
+      "longitude": 13.375197,
+      "name": "Bäckerei Spätkauf Hoch",
+      "address": "Schulzendorfer Str. 13\n13347 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-65450f99": {
+      "latitude": 52.551550,
+      "longitude": 13.510420,
+      "name": "Mult-Spätkauf",
+      "address": "Wartenberger Straße 24\n13053 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1b9ce92d": {
+      "latitude": 52.531870,
+      "longitude": 13.381940,
+      "name": "Bakkal Multi-Shop",
+      "address": "Chausseestr.28\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-27a61be2": {
+      "latitude": 52.544570,
+      "longitude": 13.368330,
+      "name": "Spätkauf u.Internet",
+      "address": "Gerichtstraße 57\n13347 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-60aac18b": {
+      "latitude": 52.505630,
+      "longitude": 13.320940,
+      "name": "Astier Spätkauf Ghebremedhin Astier",
+      "address": "Kantstr. 145\n10623 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a8e21453": {
+      "latitude": 52.545070,
+      "longitude": 13.377520,
+      "name": "Der kleine Laden",
+      "address": "Wiesenstr. 62\n13357 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-cd614cc2": {
+      "latitude": 52.552132,
+      "longitude": 13.386830,
+      "name": "Späti",
+      "address": "Grüntaler Straße 10\n13357 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-51151b2d": {
+      "latitude": 52.517785,
+      "longitude": 13.453813,
+      "name": "Einzelhandel Phillip Nguyen",
+      "address": "Petersburger Straße 87\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-82bfd03d": {
+      "latitude": 52.504313,
+      "longitude": 13.427620,
+      "name": "Kreuzberger Spätkauf 36",
+      "address": "Wrangelstr. 5\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1c1cafed": {
+      "latitude": 52.515662,
+      "longitude": 13.467731,
+      "name": "Don Communication Corner",
+      "address": "Voigtstr. 39\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-15d16c3f": {
+      "latitude": 52.501902,
+      "longitude": 13.417806,
+      "name": "Oranien Spätkauf",
+      "address": "Oranienstr. 36\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-aa6bd658": {
+      "latitude": 52.492920,
+      "longitude": 13.421670,
+      "name": "may Cafeteria",
+      "address": "Kottbusser Damm 13\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c8dd7864": {
+      "latitude": 52.496640,
+      "longitude": 13.432860,
+      "name": "Spätkauf & Internet",
+      "address": "Wiener Str 28\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ebc99e9b": {
+      "latitude": 52.511947,
+      "longitude": 13.405552,
+      "name": "Späti Kiosk Backshop",
+      "address": "Fischerinsel 6\n10179 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-af38f78f": {
+      "latitude": 52.544330,
+      "longitude": 13.425070,
+      "name": "Getränkemarkt Bolz",
+      "address": "Ahlbecker Str. 17\n10437 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8b29ef8b": {
+      "latitude": 52.535400,
+      "longitude": 13.433150,
+      "name": "WDF",
+      "address": "Danziger Straße 122\n10407 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3f96b57a": {
+      "latitude": 52.565670,
+      "longitude": 13.406910,
+      "name": "City Grill Ramazan Ilgar",
+      "address": "Mühlenstraße 71\n13187 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-58509a4b": {
+      "latitude": 52.530936,
+      "longitude": 13.334532,
+      "name": "Adler Getränke",
+      "address": "Emdener Str. 19\n10551 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-dd0797db": {
+      "latitude": 52.494950,
+      "longitude": 13.397080,
+      "name": "Lotto Tabakwaren Sarpkaya",
+      "address": "Blücherstraße 15\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-27d9cb36": {
+      "latitude": 52.515390,
+      "longitude": 13.478160,
+      "name": "Havin Kiosk Mesut Kaya",
+      "address": "Möllendorffstr. 116\n10367 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-59056e93": {
+      "latitude": 52.490100,
+      "longitude": 13.418290,
+      "name": "Kiosk Elmas Teker",
+      "address": "Urbanstrasse 49\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-608e3bcd": {
+      "latitude": 52.506849,
+      "longitude": 13.307295,
+      "name": "Tele- & Internetcafe Spätkauf",
+      "address": "Kantstr  132\n10627 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ada7ea40": {
+      "latitude": 52.490050,
+      "longitude": 13.378550,
+      "name": "Spätkauf 36 Ugur Cimen",
+      "address": "Möckernstr. 72\n10965 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c8583131": {
+      "latitude": 52.542998,
+      "longitude": 13.440432,
+      "name": "Duman Tele-Internetcafe Spätkauf",
+      "address": "Greifswalderstraße 159\n10409 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d62b83e2": {
+      "latitude": 52.556757,
+      "longitude": 13.466777,
+      "name": "Lycamobile",
+      "address": "Berliner Allee 209\n13086 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f2bc423d": {
+      "latitude": 52.532242,
+      "longitude": 13.440501,
+      "name": "HD Minimarkt  Nguyen Hai Thi Thuy",
+      "address": "Danziger Straße 176\n10407 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8c4c0ff9": {
+      "latitude": 52.497364,
+      "longitude": 13.424105,
+      "name": "Royal Getränke",
+      "address": "Reichenbergerstr. 38\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-92cb0610": {
+      "latitude": 52.529760,
+      "longitude": 13.325820,
+      "name": "Bäckerei Tuana",
+      "address": "Rostocker Str. 41\n10553 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d899ac5f": {
+      "latitude": 52.491960,
+      "longitude": 13.390390,
+      "name": "Ki-Ba Kiosk Back Shop",
+      "address": "Nostitzstr 11\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-9a388c4f": {
+      "latitude": 52.510306,
+      "longitude": 13.451163,
+      "name": "SOSO Spirits",
+      "address": "Warschauerstr 26\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-714d467d": {
+      "latitude": 52.496818,
+      "longitude": 13.433197,
+      "name": "Cafe Kiosk",
+      "address": "Wiener Str 28\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-45cc50cc": {
+      "latitude": 52.544570,
+      "longitude": 13.368330,
+      "name": "Späti 49",
+      "address": "Gerichtstr. 57\n13347 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-035965bd": {
+      "latitude": 52.488118,
+      "longitude": 13.322872,
+      "name": "Solea Internet Tele-Cafe",
+      "address": "Uhlandstr. 106A\n10717 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6629b3b3": {
+      "latitude": 52.498132,
+      "longitude": 13.348925,
+      "name": "Motzki",
+      "address": "Motzstraße 22\n10777 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c89ec089": {
+      "latitude": 52.512390,
+      "longitude": 13.497939,
+      "name": "Kiosk Hussein Mohamad",
+      "address": "Siegfriedstrasse 1A\n10365 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e4cbf7b9": {
+      "latitude": 52.491453,
+      "longitude": 13.423326,
+      "name": "Bonjour Cafe Bistro",
+      "address": "Kottbusser Damm 79\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a37d58ee": {
+      "latitude": 52.510701,
+      "longitude": 13.456276,
+      "name": "Döner Dach",
+      "address": "Simon-Dach-Strasse 11\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4c90814d": {
+      "latitude": 52.503130,
+      "longitude": 13.427590,
+      "name": "EH Getränke Abholmarkt Tüncay Mengi",
+      "address": "Muskauer Str. 23\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-152cc221": {
+      "latitude": 52.491180,
+      "longitude": 13.401243,
+      "name": "Sheimaa Spätkauf",
+      "address": "Baerwaldstr 48\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3bb95054": {
+      "latitude": 52.521950,
+      "longitude": 13.434800,
+      "name": "Chipity Spätkauf Lieferservice",
+      "address": "Friedenstr. 37\n10249 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0cf50c81": {
+      "latitude": 52.529741,
+      "longitude": 13.400338,
+      "name": "M.K. Spätshop",
+      "address": "Torstraße 129\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-9b3be9de": {
+      "latitude": 52.540750,
+      "longitude": 13.410280,
+      "name": "Depot",
+      "address": "Eberswalder Straße 20\n10437 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f67ee237": {
+      "latitude": 52.476040,
+      "longitude": 13.423140,
+      "name": "Tabakwaren-Lotto",
+      "address": "Kienitzer Strasse 114\n12049 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-76d385a7": {
+      "latitude": 52.433891,
+      "longitude": 13.341586,
+      "name": "Kiosk bei ELM-MA",
+      "address": "Kaiser-Wi.helm-Str 52\n12247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a9f39dc0": {
+      "latitude": 52.540077,
+      "longitude": 13.419238,
+      "name": "Internetcafe Snacks & Drinks",
+      "address": "Danzigerstr. 41\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-65009bfd": {
+      "latitude": 52.496780,
+      "longitude": 13.433277,
+      "name": "Express",
+      "address": "Wiener str 28\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4831e550": {
+      "latitude": 52.523525,
+      "longitude": 13.400173,
+      "name": "Oranienburgerstr 87",
+      "address": "Oranienburgerstr 87\n10178 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f785d3fc": {
+      "latitude": 52.528333,
+      "longitude": 13.393497,
+      "name": "Tabak Presseshop Internet Telecafe",
+      "address": "Torstr 182\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f50da474": {
+      "latitude": 52.526141,
+      "longitude": 13.365310,
+      "name": "Lehrter Shop",
+      "address": "Lehrter Strasse 1\n10557 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8d67acf1": {
+      "latitude": 52.498164,
+      "longitude": 13.429124,
+      "name": "Berliner Morgenpost",
+      "address": "Wiener str 14\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-864c655b": {
+      "latitude": 52.524330,
+      "longitude": 13.330130,
+      "name": "Moonshine Deluxe",
+      "address": "Gotzkowskystr. 23a\n10555 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-dd6add44": {
+      "latitude": 52.512510,
+      "longitude": 13.471870,
+      "name": "Internet Cafe",
+      "address": "Scharnweberstraße 12\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b2e27c57": {
+      "latitude": 52.539897,
+      "longitude": 13.418975,
+      "name": "Internet Cafe",
+      "address": "Danzigerstr. 41\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-9874564e": {
+      "latitude": 52.503523,
+      "longitude": 13.447345,
+      "name": "Boxi Kiosk Spätkauf Late Shop",
+      "address": "Warschauer str 47\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4a85f7eb": {
+      "latitude": 52.516926,
+      "longitude": 13.454130,
+      "name": "Sakim Gemüse",
+      "address": "Petersburger Straße 97\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-43c675fd": {
+      "latitude": 52.486207,
+      "longitude": 13.339195,
+      "name": "Lotto - Totto",
+      "address": "Wartburgerstr. 25\n10825 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c1f32a9f": {
+      "latitude": 52.511779,
+      "longitude": 13.455834,
+      "name": "Grünberger Kiosk",
+      "address": "Grünbergerstr 54\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-cd1b3d30": {
+      "latitude": 52.540547,
+      "longitude": 13.416874,
+      "name": "Surf@Point",
+      "address": "Danzigerstraße 23\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-27d4afaf": {
+      "latitude": 52.493462,
+      "longitude": 13.421479,
+      "name": "Diro Tele-Internetcafe",
+      "address": "Kottbusser Damm 10\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c83c55dc": {
+      "latitude": 52.529440,
+      "longitude": 13.397560,
+      "name": "Internet Telefon Spätkauf",
+      "address": "Torstr 124\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a08d8ee5": {
+      "latitude": 52.544918,
+      "longitude": 13.378015,
+      "name": "Tek Getränke Humboldt Hain Kadir Taburoglu",
+      "address": "Wiesenstr. 64\n13357 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a405a85d": {
+      "latitude": 52.437846,
+      "longitude": 13.270784,
+      "name": "Lotto Zeitschriften ",
+      "address": "Berlinerstr.49\n14169 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2ce0756b": {
+      "latitude": 52.455068,
+      "longitude": 13.375510,
+      "name": "Attilas Spätkauf",
+      "address": "Alarichstr. 1\n12105 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-67ee7194": {
+      "latitude": 52.486826,
+      "longitude": 13.356666,
+      "name": "Kaiser Kiosk",
+      "address": "Hauptstr. 18\n10827 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8fe58580": {
+      "latitude": 52.520567,
+      "longitude": 13.356070,
+      "name": "Tele Internetcafe ",
+      "address": "Paulstrasse 23\n10557 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-bec677b3": {
+      "latitude": 52.490820,
+      "longitude": 13.414990,
+      "name": "Urbanshop",
+      "address": "Urbanstr. 37\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-365ea112": {
+      "latitude": 52.501135,
+      "longitude": 13.418932,
+      "name": "Phone Cafe",
+      "address": "Adalbertstr 91\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7306972f": {
+      "latitude": 52.502766,
+      "longitude": 13.454231,
+      "name": "Späti ",
+      "address": "Danneckerstraße 8\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7a3c7dbe": {
+      "latitude": 52.501280,
+      "longitude": 13.419290,
+      "name": "Adal Getränke Oki",
+      "address": "Adalbertstr 18\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-611fe664": {
+      "latitude": 52.490390,
+      "longitude": 13.419460,
+      "name": "Kiosk  Birten Celik",
+      "address": "Schönleinstraße  20\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-685f059d": {
+      "latitude": 52.530377,
+      "longitude": 13.401015,
+      "name": "Internetcafe am Rosenthaler platz",
+      "address": "Brunnenstr 4\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1b87adae": {
+      "latitude": 52.502431,
+      "longitude": 13.420367,
+      "name": "Telecafe&Spätkauf Baba Gülizar",
+      "address": "Adalbertstraße 19\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1a9ebb14": {
+      "latitude": 52.525310,
+      "longitude": 13.338690,
+      "name": "@ Internet Tele-Cafe",
+      "address": "Alt-Moabit 83\n10555 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-fca3c43d": {
+      "latitude": 52.543095,
+      "longitude": 13.417451,
+      "name": "Rauma 6",
+      "address": "Raumstr. 6\n10437 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-1ff66c28": {
+      "latitude": 52.510151,
+      "longitude": 13.462190,
+      "name": "City Kiosk Steh Cafe",
+      "address": "Seumestr. 20\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f7958f7f": {
+      "latitude": 52.485760,
+      "longitude": 13.426130,
+      "name": "Helin Tele Internetcafe",
+      "address": "Karl-Marx-Str.11\n12043 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e463bbb9": {
+      "latitude": 52.530069,
+      "longitude": 13.400779,
+      "name": "Spätkauf Late Shopping",
+      "address": "Brunnenstr 196\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-42633ae8": {
+      "latitude": 52.456417,
+      "longitude": 13.577262,
+      "name": "Kiosk Quynh Anh",
+      "address": "Bahnhofstrasse 45\n12555 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-546c5e04": {
+      "latitude": 52.531269,
+      "longitude": 13.419950,
+      "name": "Internet & Telecafe",
+      "address": "Prenzlauer Allee 20\n10405 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-9ef71e3b": {
+      "latitude": 52.480940,
+      "longitude": 13.428760,
+      "name": "TNS STORE",
+      "address": "Flughafenstr. 33\n12053 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-36ff7fe1": {
+      "latitude": 52.510414,
+      "longitude": 13.452079,
+      "name": "Back & Getränkeshop",
+      "address": "Warschauerstr.  64\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-87b80b59": {
+      "latitude": 52.538652,
+      "longitude": 13.395437,
+      "name": "Internetcafe Simo",
+      "address": "Brunnenstr. 134\n13355 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-430707b6": {
+      "latitude": 52.526790,
+      "longitude": 13.330840,
+      "name": "Firat Tele-Internetcafé",
+      "address": "Gotzkowskystr.36\n10555 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7d71db0f": {
+      "latitude": 52.481130,
+      "longitude": 13.425330,
+      "name": "Kiosk 44",
+      "address": "Hermannstr. 228\n12049 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-263ae20c": {
+      "latitude": 52.500910,
+      "longitude": 13.321180,
+      "name": "Log In Cafe",
+      "address": "Knesebeckstr. 38-49\n10719 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-5d29acfc": {
+      "latitude": 52.504326,
+      "longitude": 13.465108,
+      "name": "kaptn kiez",
+      "address": "Sonntagstrasse 25\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-dfb1627e": {
+      "latitude": 52.503031,
+      "longitude": 13.420281,
+      "name": "Mengi Getränke Drinks",
+      "address": "Adalbertstr.80\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-155dcfd3": {
+      "latitude": 52.474474,
+      "longitude": 13.427282,
+      "name": "BC Spätkauf",
+      "address": "Hermannstraße 70\n12049 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6595678b": {
+      "latitude": 52.480979,
+      "longitude": 13.320107,
+      "name": "ARIS INTERNETCAFE & SPÄTKAUF",
+      "address": "Blissestr.44\n10713 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a3519029": {
+      "latitude": 52.486890,
+      "longitude": 13.327957,
+      "name": "ARIS INTERNETCAFE & SPÄTKAUF",
+      "address": "Berlinerstr.18\n10715 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-22163531": {
+      "latitude": 52.477355,
+      "longitude": 13.437696,
+      "name": "Heim Getränke",
+      "address": "Kienitzer Straße 5\n12053 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b9ddf212": {
+      "latitude": 52.528010,
+      "longitude": 13.408480,
+      "name": "Heim Getränke",
+      "address": "Alte Schönhauser Straße 4\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-611bf867": {
+      "latitude": 52.486300,
+      "longitude": 13.445360,
+      "name": "Lotto Goltsch",
+      "address": "Wildenbruchstr. 69\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4166a4c1": {
+      "latitude": 52.553250,
+      "longitude": 13.387110,
+      "name": "Adanus Spätkauf",
+      "address": "Bellermannstraße 83\n13357 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-07ba0f22": {
+      "latitude": 52.491280,
+      "longitude": 13.377008,
+      "name": "Kiosk Shop Cengiz Kücük",
+      "address": "Katzbachstraße 40\n10965 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-25e93d65": {
+      "latitude": 52.565780,
+      "longitude": 13.411930,
+      "name": "Internet - Cafe Osman Sahin",
+      "address": "Berliner Straße 16\n13189 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d0aaa543": {
+      "latitude": 52.518707,
+      "longitude": 13.287574,
+      "name": "Spätkauf  Sores Uygur",
+      "address": "Spandauer Damm 67\n14059 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-bb022c2e": {
+      "latitude": 52.562250,
+      "longitude": 13.358610,
+      "name": "Bäckerei Orkun Dincer",
+      "address": "Holländer Strasse 20\n13353 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-4875593d": {
+      "latitude": 52.487329,
+      "longitude": 13.427290,
+      "name": "Spätkauf am Hermannplatz",
+      "address": "Sonnenallee 13\n12047 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b33e347a": {
+      "latitude": 52.495610,
+      "longitude": 13.436340,
+      "name": "Multi-Kulti-Shop",
+      "address": "Liegnitzer Str.1\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-db1c8fba": {
+      "latitude": 52.529032,
+      "longitude": 13.409505,
+      "name": "Internetcafe",
+      "address": "Schönhauser Allee 188\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-5732d605": {
+      "latitude": 52.486970,
+      "longitude": 13.426290,
+      "name": "Spätkauf Am Hermannplatz",
+      "address": "Sonnenallee 12 \n12047 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-08e0d979": {
+      "latitude": 52.518090,
+      "longitude": 13.316630,
+      "name": "Sultan",
+      "address": "Guerickestr. 37\n10585 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-2a391839": {
+      "latitude": 52.523250,
+      "longitude": 13.450350,
+      "name": "Lebensmitteln Phan Quoc Duong",
+      "address": "Petersburgerstr. 35\n10249 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-737ac41c": {
+      "latitude": 52.506849,
+      "longitude": 13.307295,
+      "name": "T.G.E Tabak Presse Foto Getränke Backwaren",
+      "address": "Kantstr  134\n10627 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e8bf9498": {
+      "latitude": 52.501503,
+      "longitude": 13.419070,
+      "name": "Lotto Totto",
+      "address": "Oranienstr. 30\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-242c9e6d": {
+      "latitude": 52.456310,
+      "longitude": 13.407322,
+      "name": "GP Black Sea Trade GmbH",
+      "address": "Gottlieb-Dunkel-Str. 20-21\n12999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-543b1387": {
+      "latitude": 52.491140,
+      "longitude": 13.393280,
+      "name": "Spätkauf 24 II",
+      "address": "Gneisenaustr 19\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-fc4e1c70": {
+      "latitude": 52.531830,
+      "longitude": 13.398940,
+      "name": "Presse Kiosk",
+      "address": "Brunnenstr. 180\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8f6a92b5": {
+      "latitude": 52.482710,
+      "longitude": 13.431950,
+      "name": "Tele-Internetcafe",
+      "address": "Karl-Marx-Str. 60\n12043 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d56f1530": {
+      "latitude": 52.482742,
+      "longitude": 13.437359,
+      "name": "Rojda Tele-/Internetcafe",
+      "address": "Sonnenallee 86\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7dff6221": {
+      "latitude": 52.487580,
+      "longitude": 13.386590,
+      "name": "Afro Check Point",
+      "address": "Mehringdamm 105\n10965 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0f57edcf": {
+      "latitude": 52.501950,
+      "longitude": 13.428989,
+      "name": "Tabak Oase",
+      "address": "Manteuffelstraße 105 \n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-904d98a6": {
+      "latitude": 52.510410,
+      "longitude": 13.454266,
+      "name": "Liza Getränkemarkt",
+      "address": "Köpenickerstr.23-25\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0c14fd90": {
+      "latitude": 52.529960,
+      "longitude": 13.344910,
+      "name": "Moonshine Gökan Türk",
+      "address": "Perleberger Straße 38\n10559 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-39b44eb6": {
+      "latitude": 52.494040,
+      "longitude": 13.384640,
+      "name": "York Getränke",
+      "address": "Yorckstr. 12\n10965 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-69d43d84": {
+      "latitude": 52.538740,
+      "longitude": 13.424435,
+      "name": "Goldeneck Kiosk Elif Ay",
+      "address": "Danziger Straße 76\n10405 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-252c9d59": {
+      "latitude": 52.487200,
+      "longitude": 13.327610,
+      "name": "Internetcafe Serhat Yidirim",
+      "address": "Berliner Straße 18\n10715 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-224e31ac": {
+      "latitude": 52.501426,
+      "longitude": 13.441657,
+      "name": "Internettreffpunkt Copy Shop Tele Cafe",
+      "address": "Köpenicker Str 1\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-06512c92": {
+      "latitude": 52.517630,
+      "longitude": 13.457319,
+      "name": "Bäckerei Murat & Nihat Erdogan",
+      "address": "Rigaer Str. 12\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ec658df9": {
+      "latitude": 52.529480,
+      "longitude": 13.445160,
+      "name": "Simsek Kiosk",
+      "address": "Danzigerstr. 68\n10405 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8810d103": {
+      "latitude": 52.491925,
+      "longitude": 13.402738,
+      "name": "Telecafe Internet",
+      "address": "Blücherstr 29\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b5a530b4": {
+      "latitude": 52.495075,
+      "longitude": 13.421085,
+      "name": "lotto lotto oddset",
+      "address": "Kottbusser Damm 101\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6cf76f75": {
+      "latitude": 52.508100,
+      "longitude": 13.466680,
+      "name": "Post Kiosk",
+      "address": "Boxhagener Strasse 51\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-59022324": {
+      "latitude": 52.506558,
+      "longitude": 13.305114,
+      "name": "Telecafe 24h Market",
+      "address": "Kantstr 108\n10627 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-97623627": {
+      "latitude": 52.514520,
+      "longitude": 13.462830,
+      "name": "Botan Spätkauf",
+      "address": "Mainzer Str. 1a\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-0295d8db": {
+      "latitude": 52.474010,
+      "longitude": 13.441160,
+      "name": "Getränke&More - Tele - Internet & Spätkauf",
+      "address": "Karl-Marx-Platz 3\n12043 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-883b54b6": {
+      "latitude": 52.499620,
+      "longitude": 13.428740,
+      "name": "From Dusk Till Dawn",
+      "address": "Skalitzerstr 99\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c2d36fa7": {
+      "latitude": 52.551864,
+      "longitude": 13.414615,
+      "name": "Tonys Kiosk",
+      "address": "Schönhauser Allee 86\n10439 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ff18454f": {
+      "latitude": 52.493633,
+      "longitude": 13.436304,
+      "name": "Kiez-Net",
+      "address": "Reichenbergerstr 82\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-96b4b15d": {
+      "latitude": 52.566220,
+      "longitude": 13.408330,
+      "name": "Pankow Getränke",
+      "address": "Florastrasse 63\n13187 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-304d514d": {
+      "latitude": 52.511109,
+      "longitude": 13.435722,
+      "name": "Kiosk & Spätkauf am Ostbahnhof",
+      "address": "Erich-Steinfurth-Straße 6\n10243 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a16bd429": {
+      "latitude": 52.524767,
+      "longitude": 13.387784,
+      "name": "Presse-Tabak Getränke Point",
+      "address": "Friedrichstr. 109\n10117 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-dc2910e6": {
+      "latitude": 52.551850,
+      "longitude": 13.366820,
+      "name": "Presse Shop Yasemin Yildiz",
+      "address": "Reinickendorfer Straße 72\n13347 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f5d0ebcc": {
+      "latitude": 52.492550,
+      "longitude": 13.388110,
+      "name": "Cafe Tinto Binali Polat ",
+      "address": "Mehringdamm 39\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-276b4abc": {
+      "latitude": 52.507411,
+      "longitude": 13.302501,
+      "name": "Tele-Internetcafé Non-Stop",
+      "address": "Kaiser-Friedrich-Str 60\n10627 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-35ca1fb2": {
+      "latitude": 52.483680,
+      "longitude": 13.431000,
+      "name": "Late Night Shop",
+      "address": "Karl-Marx-Str. 49\n12043 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e848946c": {
+      "latitude": 52.514428,
+      "longitude": 13.465883,
+      "name": "Perlmutt",
+      "address": "Frankfurter Allee 60\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-50abdd81": {
+      "latitude": 52.516558,
+      "longitude": 13.290921,
+      "name": "Tele Internetcafe Kalyon Sedat",
+      "address": "Christstrasse 32\n14059 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-e02cfa29": {
+      "latitude": 52.476790,
+      "longitude": 13.426160,
+      "name": "NYX- KIOSK",
+      "address": "Hermanstrasse 57\n12049 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-56b6777d": {
+      "latitude": 52.496171,
+      "longitude": 13.349887,
+      "name": "Kiosk ",
+      "address": "Eisenacher Str. 107\n10781 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-b20cbf9f": {
+      "latitude": 52.512501,
+      "longitude": 13.458694,
+      "name": "Kiosk ",
+      "address": "Boxhagenerstr. 28\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-53b2e91b": {
+      "latitude": 52.498770,
+      "longitude": 13.427230,
+      "name": "24h Minimarkt",
+      "address": "Wiener Str 7\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-183c5dd4": {
+      "latitude": 52.481660,
+      "longitude": 13.443880,
+      "name": "Heim Getränke Türkan Dogar",
+      "address": "Innstr. 9\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7ec47b80": {
+      "latitude": 52.486373,
+      "longitude": 13.434937,
+      "name": "Späti international",
+      "address": "Weserstraße 190\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-424a3ac0": {
+      "latitude": 52.494561,
+      "longitude": 13.433163,
+      "name": "Netpoint Getränke",
+      "address": "Reichenbergerstr 71\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f2dd3a6a": {
+      "latitude": 52.493890,
+      "longitude": 13.388850,
+      "name": "Spätkauf 36",
+      "address": "Mehringdamm 25\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f605a2d6": {
+      "latitude": 52.492273,
+      "longitude": 13.389325,
+      "name": "Asia-Might",
+      "address": "Gneisenaustr 5\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-50c28e72": {
+      "latitude": 52.489120,
+      "longitude": 13.348690,
+      "name": "Wunderlampe Ayse Hatun Salman",
+      "address": "Eisenacher Straße 42\n10823 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6ecd1278": {
+      "latitude": 52.486020,
+      "longitude": 13.429690,
+      "name": "Späti International",
+      "address": "Sonnenalllee 32\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-30badcc9": {
+      "latitude": 52.516490,
+      "longitude": 13.478970,
+      "name": "Einzelhandel Hung",
+      "address": "Möllendorffstr. 108\/109\n10367 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6c9ab7e7": {
+      "latitude": 52.512032,
+      "longitude": 13.301659,
+      "name": "Kaiser",
+      "address": "Kaiser-Friedrich-Str. 78\n10585 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7a68ddf2": {
+      "latitude": 52.508066,
+      "longitude": 13.463325,
+      "name": "Gula Sor",
+      "address": "Wühlischstr.49\n10245 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a35d06d7": {
+      "latitude": 52.529173,
+      "longitude": 13.408651,
+      "name": "Gula Sor",
+      "address": "Torstr 59\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-cfc7215f": {
+      "latitude": 52.509066,
+      "longitude": 13.314019,
+      "name": "Tek Getränke",
+      "address": "Leibnitzstraße 82\n10625 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6ba72f74": {
+      "latitude": 52.492220,
+      "longitude": 13.388820,
+      "name": "Raamson Liquor Store",
+      "address": "Gneisenaustr. 5\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-bfeb3fe3": {
+      "latitude": 52.528278,
+      "longitude": 13.409975,
+      "name": "Ausserhausverkauf",
+      "address": "Linienstr 41\n10119 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f2b1130f": {
+      "latitude": 52.524907,
+      "longitude": 13.406699,
+      "name": "Zeitung Tabakwaren Getränke",
+      "address": "Münzstr 23\n10178 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-24f599d6": {
+      "latitude": 52.494648,
+      "longitude": 13.421331,
+      "name": "Euro Shop 2000",
+      "address": "Kottbusser Damm 98\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-25223eba": {
+      "latitude": 52.541456,
+      "longitude": 13.408835,
+      "name": "Getränke Depot Tabakwaren",
+      "address": "Eberswalder Str 35\n10437 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-a6bcaab4": {
+      "latitude": 52.505970,
+      "longitude": 13.310950,
+      "name": "Kant 123",
+      "address": "Kantstr. 123\n10623 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ec7a0658": {
+      "latitude": 52.500376,
+      "longitude": 13.301441,
+      "name": "Der Laden ",
+      "address": "Damaschkestrasse 8-10\n10711 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d81a9644": {
+      "latitude": 52.533354,
+      "longitude": 13.429201,
+      "name": "Sipan Internetcafe& Spätkauf",
+      "address": "Greifswalderstr.204\n10405 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-723c9a2c": {
+      "latitude": 52.535640,
+      "longitude": 13.377310,
+      "name": "Bakery & Grosery",
+      "address": "Chausseestraße 51\n10115 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7f8c6161": {
+      "latitude": 52.540614,
+      "longitude": 13.412595,
+      "name": "Intern@ute, Night + Day",
+      "address": "Schönhauser Allee 44\n10435 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-bf1b8314": {
+      "latitude": 52.493290,
+      "longitude": 13.427660,
+      "name": "Kley Getränke",
+      "address": "Birknerstr. 32\n12047 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-5beadb50": {
+      "latitude": 52.493610,
+      "longitude": 13.421330,
+      "name": "Azad-TeleInternet-cafe",
+      "address": "Kottbusserdamm 10\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-c77001a5": {
+      "latitude": 52.497480,
+      "longitude": 13.361480,
+      "name": "Potsdamer Getränke Necmettin Milet",
+      "address": "Potsdamer Str. 144\n10783 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6f87871f": {
+      "latitude": 52.501431,
+      "longitude": 13.423606,
+      "name": "Akasia Shop",
+      "address": "Naunynstr.17\n10997 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-ea7fc49e": {
+      "latitude": 52.501280,
+      "longitude": 13.419290,
+      "name": "Internet Treff",
+      "address": "Adalbertstr 19\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-7f362a22": {
+      "latitude": 52.476621,
+      "longitude": 13.319772,
+      "name": "Fruko cafe",
+      "address": "Hanauerstr. 80\n14197 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-543945d8": {
+      "latitude": 52.447625,
+      "longitude": 13.341423,
+      "name": "Latenight Shop",
+      "address": "Albrechtstr. 74\n12167 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-947363aa": {
+      "latitude": 52.493998,
+      "longitude": 13.421721,
+      "name": "Latenight Shop",
+      "address": "Kottbusser Damm 95\n10967 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-6bc77fb7": {
+      "latitude": 52.494150,
+      "longitude": 13.400687,
+      "name": "Umuts Spätshop",
+      "address": "Urbanstr. 1\n10961 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-daa0aa5f": {
+      "latitude": 52.487854,
+      "longitude": 13.437962,
+      "name": "Backshop Zahide Tunc ",
+      "address": "Weichselstrasse 1-2 \n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f8fec7d0": {
+      "latitude": 52.483190,
+      "longitude": 13.441944,
+      "name": "Laubeshop",
+      "address": "Wildenbruchstraße 86\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-98d886c4": {
+      "latitude": 52.494700,
+      "longitude": 13.428750,
+      "name": "Tabak und Oreeseshop",
+      "address": "Ohlauer Straße 40\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-3cd8b0d0": {
+      "latitude": 52.481660,
+      "longitude": 13.443880,
+      "name": "Kiosk Özer Sah Hüseyin",
+      "address": "Innstraße 9\n12045 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-80f4434c": {
+      "latitude": 52.519930,
+      "longitude": 13.452640,
+      "name": "Kiosk/ Lotto Zivkovic Suzana- Silvia",
+      "address": "Petersburgerstr. 69\n10247 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-36c1e0d7": {
+      "latitude": 52.496818,
+      "longitude": 13.433197,
+      "name": "Café KIOSK",
+      "address": "Wiener Str 28\n10999 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-f589ba72": {
+      "latitude": 52.488167,
+      "longitude": 13.322435,
+      "name": "OPEN 7/24 HOURS",
+      "address": "Uhlandstr 90\n10717 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-28e9ded2": {
+      "latitude": 52.436440,
+      "longitude": 13.543220,
+      "name": "Cafe Imbiss Dshambulat",
+      "address": "Dörpfeldstr. 12\n12489 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-8bbaf27c": {
+      "latitude": 52.523967,
+      "longitude": 13.416905,
+      "name": "Spätkauf 24/7",
+      "address": "Bernhard-Weiss-Str. 1\n10178 Berlin",
+      "creator": "imported"
+    },
+    "spaeti-d18a8c1f": {
+      "latitude": 52.497675,
+      "longitude": 13.361494,
+      "name": "Day & Night",
+      "address": "Bülowstr. 24\n10785 Berlin",
+      "creator": "imported"
+    }
+  }
+}
+  
