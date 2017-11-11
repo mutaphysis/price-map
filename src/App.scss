@@ -9,6 +9,10 @@ body {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+main {
+  overflow-x: hidden;
+}
+
 .sub-header {
   background-color: #222;
   padding: 10px;

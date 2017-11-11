@@ -13,6 +13,7 @@
     "react-firebase": "^2.2.7-4",
     "react-firebaseui": "^1.0.5",
     "react-md": "^1.2.8",
+    "react-router-dom": "^4.2.2",
     "simpl-schema": "^0.4.1",
     "styled-components": "^2.2.3",
     "whatwg-fetch": "2.0.3"
@@ -29,6 +30,7 @@
     "@types/node": "^8.0.50",
     "@types/react": "^16.0.21",
     "@types/react-dom": "^16.0.2",
+    "@types/react-router-dom": "^4.2.1",
     "@types/webfontloader": "^1.6.29",
     "autoprefixer": "7.1.2",
     "case-sensitive-paths-webpack-plugin": "2.1.1",
