@@ -1,6 +1,54 @@
 {
   "rules": {
-    ".read": "auth != null",
-    ".write": "auth != null"
+    
+    "places": {
+      ".read": "true"
+    },
+
+    "products": {
+      ".read": "true"
+    },
+
+    "prices": {      
+      ".read": "true",
+      ".indexOn": ["collectedAt", "product", "place"],
+      "$price_id": {
+        // allow creating new or updating existing
+        ".write": "auth !== null && (!data.exists() || data.child('creator').val() === auth.uid)",
+
+        // only allow current timestamps
+        "collectedAt": { ".validate": "newData.val() <= now" },
+
+        "price": {          
+          "value": {
+             ".validate": "newData.isNumber() && newData.val() > 0.0"
+          },
+          // only allow EUR for now
+          "unit": {
+             ".validate": "newData.val() === 'EUR'"
+          },
+          // deny other fields
+          "$other": { ".validate": false }
+        },
+
+        // require to be the current user
+        "creator": {
+          ".validate": "newData.val() === auth.uid"
+        },
+
+        // must link to existing product
+        "product": {
+          ".validate": "root.child('products/' + newData.val()).exists()"
+        },
+        
+        // must link to existing place
+        "place": {
+          ".validate": "root.child('places/' + newData.val()).exists()"
+        },
+
+        // deny other fields
+        "$other": { ".validate": false }
+      }
+    }
   }
 }
